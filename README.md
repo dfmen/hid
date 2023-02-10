@@ -1,5 +1,5 @@
 # HID
-Herramienta interactiva digital para el fortalecimiento de la competencia lectora en personas con Síndrome de Down.
+Interactive digital tool for strengthening reading skills in people with Down Syndrome.
 
-Link de la aplicación para Android (Abrir este link desde un dispositivo android): 
+Link to the Android application (Open this link from an android device): 
 https://appdistribution.firebase.dev/i/047b74d327723bc1
